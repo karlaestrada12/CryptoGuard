@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.karlaestrada12.cryptoguard.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.karlaestrada12.cryptoguard.MyBundle
 
 class MyProjectService(project: Project) {
 
